@@ -2,7 +2,7 @@
 layout: post
 title:  "My first Blog in Git hub!"
 date:   2015-02-07 01:00:19
-categories: jekyll update
+categories: laoniu85 diary
 ---
 
 It seems so cool , I want to add some comments plugin to this blog.

@@ -1,8 +1,8 @@
 # Site settings
-title: laoniu85's blog in github
+title: Blog of Laoniu85
 description: > # this means to ignore newlines until "baseurl:"
   I'm tring to write a blog with github, I write it with a template from jekyll.org.
-baseurl: ./laoniu85.github.io
+baseurl: /laoniu85.github.io
 url: "http://laoniu85.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  laoniu85@163.com

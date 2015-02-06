@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm tring to write a blog with github, I write it with a template from jekyll.org.
 baseurl: 
 url: "http://laoniu85.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: laoniu85
 github_username:  laoniu85
 
 # Build settings
